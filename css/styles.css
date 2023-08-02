@@ -1,7 +1,7 @@
 h1{ 
-    color: gold;
+    color: black;
     text-align: center;
-    background-color: black;
+    background-color: whitesmoke;
     font-size: 100px;
 }
 
@@ -17,5 +17,10 @@ h1{
     line-height: 40px;
   }
   #main {color: blue;}
+
+  .test{
+    text-align: left;
+    color: blueviolet;
+  }
 
   
